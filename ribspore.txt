@@ -1,0 +1,286 @@
+Raw Data (290/485)	SampleID	Location	Sublocation	Sublocation_2	Species	Month_sampled	Year_sampled	RIBBiTR_ID
+62778	Br 61	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac061
+61660	Br 61	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac061
+56188	Br 61	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac061
+63157	Br 64	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac064
+63138	Br 64	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac064
+54383	Br 64	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac064
+63821	Br 62	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac062
+63829	Br 62	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac062
+67587	Br 62	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac062
+61454	Br 65	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac065
+64869	Br 65	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac065
+63303	Br 65	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac065
+72424	Br 63 	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac063
+71864	Br 63 	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac063
+68443	Br 63 	Brazil	Santa_Virginia	A4W	Hylodes_phyllodes	Nov	2022	BRBac063
+79427	Br 42	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac042
+79988	Br 42	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac042
+69572	Br 42	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac042
+64036	Br 49	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac049
+62006	Br 49	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac049
+58122	Br 49	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac049
+63077	Br 46	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac046
+62582	Br 46	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac046
+57648	Br 46	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac046
+61640	Br 41	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac041
+61674	Br 41	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac041
+65254	Br 41	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac041
+60746	Br 45	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac045
+64779	Br 45	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac045
+55045	Br 45	Brazil	Santa_Virginia	Olho_de_agua	Ischnocnema_henselii	Nov	2022	BRBac045
+22695	C 5	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0005
+22101	C 5	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0005
+24706	C 5	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0005
+21297	C 75	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0075
+21094	C 75	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0075
+23990	C 75	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0075
+21211	Ca 111	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0111
+20398	Ca 111	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0111
+23091	Ca 111	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0111
+20500	Ca 95 	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0095
+20749	Ca 95 	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0095
+22102	Ca 95 	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0095
+20603	Ca 132	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0132
+20714	Ca 132	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0132
+22747	Ca 132	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0132
+19331	Ca 152	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0152
+18855	Ca 152	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0152
+19554	Ca 152	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0152
+20665	Ca 133	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0133
+20718	Ca 133	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0133
+22576	Ca 133	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0133
+19691	Ca 153	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0153
+19586	Ca 153	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0153
+19973	Ca 153	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0153
+19234	Ca 113	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0113
+19478	Ca 113	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0113
+21675	Ca 113	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0113
+22697	Ca 72	California		N/A	Rana muscosa	Oct	2022	BII0072
+21506	Ca 72	California		N/A	Rana muscosa	Oct	2022	BII0072
+21378	Ca 72	California		N/A	Rana muscosa	Oct	2022	BII0072
+22482	Ca 114	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0114
+21805	Ca 114	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0114
+23708	Ca 114	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0114
+23644	Ca 2	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0002
+22345	Ca 2	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0002
+22900	Ca 2	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0002
+22609	Ca 163	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0163
+23226	Ca 163	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0163
+22839	Ca 163	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0163
+22839	Ca 135	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0135
+23333	Ca 135	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0135
+22228	Ca 135	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0135
+22065	Ca 93	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0093
+21587	Ca 93	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0093
+24651	Ca 93	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0093
+21813	Ca 115	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0115
+19925	Ca 115	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0115
+20793	Ca 115	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0115
+21241	Ca 165	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0165
+21165	Ca 165	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0165
+21277	Ca 165	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0165
+22688	Ca 94	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0094
+21260	Ca 94	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0094
+21278	Ca 94	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0094
+22346	Ca 112	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0112
+21898	Ca 112	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0112
+23003	Ca 112	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0112
+22601	Ca 3	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0003
+20340	Ca 3	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0003
+21364	Ca 3	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0003
+20707	Ca 161	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0161
+20809	Ca 161	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0161
+20638	Ca 161	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0161
+21107	Ca 115	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0115
+20268	Ca 115	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0115
+19833	Ca 115	California	Independence Creek	Slim Lake	Rana muscosa	Oct	2022	BII0115
+21193	Ca 73	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0073
+19776	Ca 73	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0073
+19976	Ca 73	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0073
+22719	Ca 134	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0134
+21553	Ca 134	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0134
+20906	Ca 134	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0134
+21834	Ca 162	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0162
+20165	Ca 162	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0162
+20109	Ca 162	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0162
+19387	Ca 71	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0071
+19597	Ca 71	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0071
+20257	Ca 71	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0071
+19779	Ca 91	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0091
+19429	Ca 91	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0091
+19843	Ca 91	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0091
+22098	Ca 164	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0164
+20256	Ca 164	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0164
+20889	Ca 164	California	Mulkey Meadows	Mulkey Meadows	Rana muscosa	Oct	2022	BII0164
+19505	Ca 4	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0004
+19712	Ca 4	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0004
+19870	Ca 4	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0004
+19646	Ca 92	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0092
+19180	Ca 92	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0092
+19102	Ca 92	California	Humphreys Basin	Trapdoor	Rana muscosa	Oct	2022	BII0092
+20826	Ca 155	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0155
+19545	Ca 155	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0155
+19698	Ca 155	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0155
+19949	Ca 131	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0131
+20304	Ca 131	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0131
+19709	Ca 131	California	Conness Pond	Conness Pond	Rana muscosa	Oct	2022	BII0131
+19126	Ca 74	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0074
+19331	Ca 74	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0074
+18854	Ca 74	California	Humphreys Basin	Ameletus Lake	Rana muscosa	Oct	2022	BII0074
+22677	Ca 154	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0154
+21546	Ca 154	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0154
+22113	Ca 154	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0154
+21399	Ca 151	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0151
+21441	Ca 151	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0151
+21789	Ca 151	California	Fourth Recess	Sleet Lake	Rana muscosa	Oct	2022	BII0151
+21005	Ca 1	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0001
+20992	Ca 1	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0001
+22767	Ca 1	California	Unicorn	Unicorn	Rana muscosa	Oct	2022	BII0001
+48090	PsCr 20	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-18-admin-pscr20
+46805	PsCr 20	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-18-admin-pscr20
+40999	PsCr 20	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-18-admin-pscr20
+47700	PsCr 6	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-19-admin-pscr6
+43858	PsCr 6	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-19-admin-pscr6
+48659	PsCr 6	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-19-admin-pscr6
+47738	PsCr 5	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-19-admin-pscr5
+45844	PsCr 5	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-19-admin-pscr5
+38511	PsCr 5	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-19-admin-pscr5
+53342	PsCr 4	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-19-admin-pscr4
+54606	PsCr 4	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-19-admin-pscr4
+45182	PsCr 4	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-19-admin-pscr4
+47088	PsCr 10	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-18-admin-pscr19
+43007	PsCr 19	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-18-admin-pscr19
+43958	PsCr 19	Penn	Admin Pond	N/A	Pseudacris crucifer	May	2022	2022-05-18-admin-pscr19
+24660	Pa 150	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00150
+24990	Pa 150	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00150
+24321	Pa 150	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00150
+21085	P 199	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00199
+26308	P 199	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00199
+24078	P 199	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00199
+24727	Pa 153 	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00153
+22629	Pa 153 	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00153
+21655	Pa 153 	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00153
+23008	P 200	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00200
+23128	P 200	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00200
+26726	P 200	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00200
+22855	Pa 154	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00154
+21498	Pa 154	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00154
+21402	Pa 154	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00154
+21167	P 201	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00201
+21610	P 201	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00201
+21298	P 201	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00201
+24084	P 202	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00202
+21865	P 202	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00202
+25172	P 202	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00202
+20533	P 203	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00203
+24622	P 203	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00203
+21396	P 203	Penn	Tuttle Pond	N/A	Rana catesbeiana	July	2022	BacSwab00203
+20115	Pa 156 	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00156
+20571	Pa 156 	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00156
+23031	Pa 156 	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00156
+21051	Pa 155	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00155
+20275	Pa 155	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00155
+22689	Pa 155	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00155
+22144	Pa 157	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00157
+21804	Pa 157	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00157
+23464	Pa 157	Penn	RV Pond	N/A	Rana catesbeiana	July	2022	BacSwab00157
+21651	Pa 102	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00102
+20894	Pa 102	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00102
+20413	Pa 102	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00102
+19849	Pa 104	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00104
+19507	Pa 104	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00104
+20018	Pa 104	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00104
+22250	Pa 140	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00140
+21046	Pa 140	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00140
+20569	Pa 140	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00140
+21688	Pa 139 	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00139
+22551	Pa 139 	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00139
+22576	Pa 139 	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00139
+20909	Pa 105	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00105
+20809	Pa 105	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00105
+20708	Pa 105	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00105
+20841	Pa 101	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00101
+20923	Pa 101	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00101
+22863	Pa 101	Penn	Tuttle Pond	N/A	Rana catesbeiana	June	2022	BacSwab00101
+22201	Pa 89	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00089
+22850	Pa 89	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00089
+23642	Pa 89	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00089
+22541	P 137	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00137
+22665	P 137	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00137
+21437	P 137	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00137
+21847	P 138	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00138
+22581	P 138	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00138
+20092	P 138	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00138
+20858	Pa 69 	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00069
+21089	Pa 69 	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00069
+22589	Pa 69 	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00069
+21094	P 136	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00136
+22991	P 136	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00136
+22665	P 136	Penn	Vorisek Pond	N/A	Rana catesbeiana	June	2022	BacSwab00136
+22387	Pa 68	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00068
+21025	Pa 68	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00068
+22077	Pa 68	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00068
+23161	Pa 67	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00067
+22352	Pa 67	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00067
+21961	Pa 67	Penn	RV Pond	N/A	Rana catesbeiana	June	2022	BacSwab00067
+52879	RaCa 12	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca12
+48153	RaCa 12	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca12
+46399	RaCa 12	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca12
+47659	RaCa 14	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca14
+48609	RaCa 14	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca14
+46606	RaCa 14	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca14
+41144	RaCa 2	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca2
+43907	RaCa 2	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca2
+39331	RaCa 2	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca2
+43674	RaCa 13	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca13
+42593	RaCa 13	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca13
+37262	RaCa 13	Penn	Admin Pond	N/A	Rana catesbeiana	May	2022	2022-05-18-admin-raca13
+83851	P 271	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00271
+79518	P 271	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00271
+67170	P 271	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00271
+75156	P 272	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00272
+71392	P 272	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00272
+55814	P 272	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00272
+65025	Pa 256	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00256
+75881	Pa 256	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00256
+72917	Pa 256	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00256
+80763	Pa 257 	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00257
+82678	Pa 257 	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00257
+66172	Pa 257 	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00257
+82199	Pa 255	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00255
+81457	Pa 255	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00255
+80780	Pa 255	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00255
+76546	Pa 259 	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00259
+75758	Pa 259 	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00259
+58143	Pa 259 	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00259
+78025	Pa 258	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00258
+83701	Pa 258	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00258
+58600	Pa 258	Penn	RV Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00258
+81540	P 275	Penn	Tuttle pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00275
+81779	P 275	Penn	Tuttle pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00275
+76505	P 275	Penn	Tuttle pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00275
+74604	P 273	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00273
+79635	P 273	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00273
+61068	P 273	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00273
+87291	P 274	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00274
+84089	P 274	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00274
+73372	P 274	Penn	Tuttle Pond	N/A	Rana catesbeiana	Sept	2022	BacSwab00274
+45893	P 194	Penn	Tuttle Pond	N/A	Rana pipiens	July	2022	BacSwab00194
+46533	P 194	Penn	Tuttle Pond	N/A	Rana pipiens	July	2022	BacSwab00194
+40809	P 194	Penn	Tuttle Pond	N/A	Rana pipiens	July	2022	BacSwab00194
+35962	P 253	Penn	Tuttle Pond	N/A	Rana pipiens	July	2022	BacSwab00253
+42952	P 253	Penn	Tuttle Pond	N/A	Rana pipiens	July	2022	BacSwab00253
+43431	P 253	Penn	Tuttle Pond	N/A	Rana pipiens	July	2022	BacSwab00253
+41847	P 254	Penn	Tuttle Pond	N/A	Rana pipiens	July	2022	BacSwab00254
+42143	P 254	Penn	Tuttle Pond	N/A	Rana pipiens	July	2022	BacSwab00254
+38633	P 254	Penn	Tuttle Pond	N/A	Rana pipiens	July	2022	BacSwab00254
+84097	RaPi 16	Penn	Admin Pond	N/A	Rana pipiens	May	2022	2022-05-18‚Äêadmin-rapi16
+96656	RaPi 16	Penn	Admin Pond	N/A	Rana pipiens	May	2022	2022-05-18‚Äêadmin-rapi16
+72463	RaPi 16	Penn	Admin Pond	N/A	Rana pipiens	May	2022	2022-05-18‚Äêadmin-rapi16
+87851	RaPi 17	Penn	Admin Pond	N/A	Rana pipiens	May	2022	2022-05-18-admin-rapi17
+80927	RaPi 17	Penn	Admin Pond	N/A	Rana pipiens	May	2022	2022-05-18-admin-rapi17
+61538	RaPi 17	Penn	Admin Pond	N/A	Rana pipiens	May	2022	2022-05-18-admin-rapi17
+70039	RaPi 18	Penn	Admin Pond	N/A	Rana pipiens	May	2022	2022-05-18-admin-rapi18
+75720	RaPi 18	Penn	Admin Pond	N/A	Rana pipiens	May	2022	2022-05-18-admin-rapi18
+87049	RaPi 18	Penn	Admin Pond	N/A	Rana pipiens	May	2022	2022-05-18-admin-rapi18
