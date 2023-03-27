@@ -1,1 +1,3 @@
-# amphibian_endospores
+# Amphibian endospores
+
+Repository for endospores in amphibian microbiomes. 
