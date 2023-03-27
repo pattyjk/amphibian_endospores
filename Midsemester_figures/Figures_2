@@ -1,0 +1,41 @@
+##'--------------------------------
+##' Fresh Vs Frozen Samples
+##' 2023-03-27
+##'
+##'---------------------------------
+
+library(stringr)
+fresh_frozen <- read.table("data/fresh_frozen_TbCl.txt", sep = '\t', header = T)
+
+ggplot(fresh_frozen, aes(x = Fresh_fluor, y = Froz_fluor, color=Type1)) +
+  geom_point() +
+  facet_wrap(~str_to_title(Common_name), scales='free')+
+  geom_smooth(method='lm') +
+  theme_minimal() +
+  theme(text = element_text(family = 'serif', size = 12, face = 'bold')) +
+  labs(color = "Method") +
+  xlab("Fresh Fluorescense") +
+  ylab("Frozen Fluorescense")
+  
+##'--------------------------------
+##' Fluorescence Over Time
+##' 2023-03-27
+##'
+##'---------------------------------
+
+fluor_over_time <- read.table("data/fluor_over_time.txt", sep = '\t', header = T)
+fluor_over_time
+
+ggplot(fluor_over_time, aes(x = as.factor(Time), y =Fluor, fill = Sample_type)) +
+  geom_boxplot() +
+  geom_jitter() +
+  xlab("Time") +
+  ylab("Fluorescense") +
+  facet_wrap(facet = vars(Common_name)) +
+  theme_minimal() +
+  ggtitle("Fluoresecense Readings Over Time") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme(text = element_text(family = 'serif', face = 'bold', size = 12)) +
+  labs(fill = "Sample Type")
+  
+  
