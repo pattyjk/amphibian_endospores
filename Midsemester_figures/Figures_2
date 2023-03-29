@@ -38,4 +38,127 @@ ggplot(fluor_over_time, aes(x = as.factor(Time), y =Fluor, fill = Sample_type)) 
   theme(text = element_text(family = 'serif', face = 'bold', size = 12)) +
   labs(fill = "Sample Type")
   
+##'--------------------------------
+##' Lab Data Analysis
+##' Ribbitr Samples TbCl Assay
+##' 2023-03-27
+##'
+##'---------------------------------
+
+ribspore <- read.delim("data/ribspore.txt")
+ribspore
+
+
+ggplot(ribspore, aes(Month_sampled, Raw.Data..290.485., fill=Location))+
+  geom_boxplot()+
+  facet_wrap(~Species)+
+  theme_bw()+
+  ylab("TbCl fluorescence")+
+  xlab("Month Sampled") +
+  ggtitle("Fluroesence Reading of different Species in 3 Locations") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme(text = element_text(family = 'serif', face = 'bold', size = 12))
+
+
+##'--------------------------------
+##' Lab Data Analysis
+##' % Spores CFU
+##' 2023-03-27
+##'
+##'---------------------------------
+
+spores<-read.delim("data/spore_cfu.txt", sep= '\t', header=T)
+spores
+
+ggplot(spores, aes(Method, Per_spore, fill=Method))+
+  geom_boxplot()+
+  theme_bw()+
+  facet_wrap(~Common_name)+
+  coord_flip()+
+  ylab("Percent spore-forming bacteria")+
+  xlab("") +
+  theme(legend.position="none") +
+  ggtitle("Percent Spore Forming Bacteria per Species") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme(text = element_text(family = 'serif', face = 'bold', size = 12))
   
+
+
+##'--------------------------------
+##' Lab Data Analysis
+##' % Viable Spores TbCl
+##' 2023-03-27
+##'
+##'---------------------------------
+
+per_viable_spores <- read.delim("data/per_viable_spores.txt", sep = '\t', header=T)
+per_viable_spores
+
+ggplot(per_viable_spores, aes(Type1, Per_viable, fill = Type1))+
+  geom_boxplot()+
+  theme_bw()+
+  ylab("Percent viable spores (TbCl assay)")+
+  xlab("Method")+
+  facet_wrap(~Common_name) +
+  ggtitle("Percent Viable Spores of Species") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme(text = element_text(family = 'serif', face = 'bold', size = 12)) +
+  theme(legend.position="none")
+
+#`---------------------------------
+#` Microbiome Lab Data analysis 
+#' 
+#' -------------------------------
+
+# packages 
+library(tidyr)
+library(readr)
+library(tidyverse)
+library(ggplot2)
+library(stringr)
+
+CFU_counts <- read.table("data/spore_cfu.txt", sep='\t', header=T)
+View(CFU_counts)
+
+# Creates a plot that shows both points and boxplots for both methods of sampling
+ggplot(data = CFU_counts, aes(x=str_to_title(Common_name), y=CFU.ml, fill= Method)) +
+  geom_boxplot() +
+  geom_jitter() +
+  facet_wrap(~Method) +
+  xlab("Species") +
+  ylab("CFU per mL") +
+  theme_bw() +
+  theme(plot.title = element_text(hjust = 0.5)) + 
+  theme(text=element_text(family = "serif", face="bold", size=12)) +
+  ggtitle("CFU per mL counts of differnet Amphibian Species")
+  
+# Runs an anova test to determine statistical significance  
+aov(CFU.ml~Method, data = CFU_counts)
+#Terms:
+#                      Method    Residuals
+#Sum of Squares  6.061082e+12 1.056534e+14
+#Deg. of Freedom            1           58
+
+#Residual standard error: 1349670
+#Estimated effects may be unbalanced
+
+MCFU_aov <- aov(CFU.ml~Method, data = CFU_counts)
+
+# runs a Tukey test to give us the limits of the data 
+TukeyHSD(MCFU_aov)
+# runs a t.test
+# Method
+#                   diff      lwr     upr     p adj
+#Swab-Mucosome -635666.7 -1333232 61898.6 0.0732906
+
+#aov for species and the methods
+MUC_SWA_AOV <- aov(CFU.ml~Method+Species, data = CFU_counts)
+TukeyHSD(MUC_SWA_AOV)
+
+
+
+  
+
+
+
+
