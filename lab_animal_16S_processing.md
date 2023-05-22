@@ -52,5 +52,10 @@ qiime metadata tabulate \
   --o-visualization taxonomy.qzv
  
 # convert ASV table to biom/text
- 
+qiime tools export --output-path asv_table --input-path lab_spore_table-deblur.qza
+biom convert -i asv_table/feature-table.biom -o endo_asv_table.txt --to-tsv
+
+#export taxonomy
+qiime taxa barplot --i-table lab_spore_table-deblur.qza --i-taxonomy lab_spore_taxonomy.qza --output-dir taxa --o-visualization taxa_visual
+qiime tools export --input-path taxa_visual.qzv --output-path taxa 
  ```
